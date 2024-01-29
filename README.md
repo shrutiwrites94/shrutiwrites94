@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrutiwrites94. I have passion for teaching since childhood. I have a Bachelors and Masters degree in Management. 
-- 📫 How to reach me: shrutiwrites94 [at] gmail.co
+- 📫 How to reach me: shrutiwrites94 [at] gmail.com
 
 <!---
 shrutiwrites94/shrutiwrites94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
